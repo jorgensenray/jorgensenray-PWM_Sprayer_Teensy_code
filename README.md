@@ -1,6 +1,6 @@
 # jorgensenray-PWM_Sprayer_Teensy_code
 
-A working, cost effective PWM sprayer.
+A working, cost effective PWM sprayer.  This is a companion app to Ag Open GPS.  To learn more https://discourse.agopengps.com/  Communication is via UDP between this app and the teensy 4.1.
 
 Features include; -  On/Off valve control  -  PWM valve control  -  Turn compensation  -  Staggered valve control  -  User definable Hz up to 15 and possibly higher.
 
