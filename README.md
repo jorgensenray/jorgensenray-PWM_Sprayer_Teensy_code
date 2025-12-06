@@ -2,12 +2,7 @@
 
 A working, cost effective PWM sprayer.
 
-Features include; 
-On/Off valve control (Conventional).
-PWM valve control
-Turn compensation
-Staggered valve control
-User definable Hz up to 15 and possibly higher.
+Features include; -  On/Off valve control  -  PWM valve control  -  Turn compensation  -  Staggered valve control  -  User definable Hz up to 15 and possibly higher.
 
 The solenoid: If you read far enough it’s rated for 50 million cycles. At 10 Hz running 24 hrs a day that is just under 58 days.  It only draws .4 amps in my testing. I can measure 15 Hz and I’m sure it will cycle faster.
 
