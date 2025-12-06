@@ -1,5 +1,26 @@
 # jorgensenray-PWM_Sprayer_Teensy_code
 
+A working, cost effective PWM sprayer.
+
+Features include; 
+On/Off valve control (Conventional).
+PWM valve control
+Turn compensation
+Staggered valve control
+User definable Hz up to 15 and possibly higher.
+
+The solenoid: If you read far enough it’s rated for 50 million cycles. At 10 Hz running 24 hrs a day that is just under 58 days.  It only draws .4 amps in my testing. I can measure 15 Hz and I’m sure it will cycle faster.
+
+Optional but recommended is an INA219 current sensor.
+
+This AOG compatible controller will cost $40 for a Teensy that will get you 30+ individually controlled nozzles. If you need more than that, let’s talk.  Need a PCB or just make one with perfboard.  I’ll design one and post it on Git.
+
+So you’re just shy of $100 in these parts.
+
+You need a PWM driver for each valve at a cost of around $10.  (Digikey thru hole parts). or JLC SMD components - assembled $6 plus shipping.
+
+ The negatives would be that the components aren’t designed for ag chemicals and won’t last.  At $6.95 you can replace a valve a bunch of times before you’re even money with a Raven/Capstan or your favorite flavor of valve.
+
 Links to hardware
 
 Solenoid  -  https://www.adafruit.com/product/997?gad_source=1&gad_campaignid=21079227318&gbraid=0AAAAADx9JvREtZbzN7VxtLYFz7-A3xMAd&gclid=CjwKCAiAz_DIBhBJEiwAVH2XwC8ni-AIbHYb4CeiB6gdH6J2SGWmQ1-fPDBJdPGucnD4ahceZ4B41BoCmG8QAvD_BwE
