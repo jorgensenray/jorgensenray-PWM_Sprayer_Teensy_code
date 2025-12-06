@@ -8,7 +8,7 @@ The solenoid: If you read far enough it’s rated for 50 million cycles. At 10 H
 
 Optional but recommended is an INA219 current sensor.
 
-This AOG compatible controller will cost $40 for a Teensy 4.1 W/Ethernet that will get you 30+ individually controlled nozzles. If you need more than that, let’s talk.  Need a PCB or just make one with perfboard.  I’ll design one and post it on Git.
+This AOG compatible controller will cost $40 for a Teensy 4.1 W/Ethernet that will get you 36 individually controlled nozzles. If you need more than that, let’s talk.  Need a PCB or just make one with perfboard.  I’ll design one and post it on Git.
 
 So you’re just shy of $100 in these parts.
 
